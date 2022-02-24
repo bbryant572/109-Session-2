@@ -1,0 +1,18 @@
+
+.footer {
+    
+    background: rgb(35, 141, 136);
+}
+
+.footer h5 {
+    color: white;
+    padding-top: 12px;
+    margin-bottom: 10px;
+}
+
+.footer h6 {
+    color: white;
+    padding-bottom: 22px;
+    margin-top: 0;
+    margin-bottom: 0;
+}

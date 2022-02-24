@@ -1,0 +1,25 @@
+.about-photo {
+    background-image: url("https://thumbs.dreamstime.com/b/brick-walls-neon-light-background-rays-glow-211376300.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-photo img {
+    height: 500px;
+}
+.about-page {
+    background-color: rgb(35, 141, 136);
+    color: rgb(239, 241, 74);
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+}
+
+.about-page h1 {
+    color: rgb(34, 16, 134);
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+}
+
+.about-page li {
+    list-style: none;
+}

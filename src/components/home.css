@@ -1,0 +1,62 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.home-header {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJ1frlvSOmOW5a4QNuc-ulXGyjx_9boSwfkyAaqvOLBu_839Rm3_qhwquqZCUCKGgQH4&usqp=CAU");
+    background-size: auto;
+    background-repeat: no-repeat;
+    min-height: 200px;
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+
+.home-main {
+    background-image: url("https://t3.ftcdn.net/jpg/01/06/62/38/240_F_106623813_tHLITzIvrhBJA91CacYboSPU7NpVRyVB.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.home-main h1 {
+    color: white;
+}
+
+.home-main h4 {
+    color: white;
+}
+
+.home-main p {
+    color: white;
+}
+
+.home-header h2 {
+    height: 130px;
+    line-height: 130px;
+    text-align: center;
+    color: rgb(35, 141, 136);
+}
+
+.home-main h4 {
+    color: rgb(35, 141, 136);
+}
+
+.home-container {
+    display: flex;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 615px;
+}
+.home-container p {
+    border: 2px solid white;
+    border-radius: 2px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.btn {
+    margin-left: 10px;
+    margin-bottom: 3px;
+    
+}

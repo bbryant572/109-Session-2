@@ -1,0 +1,29 @@
+.product {
+    display: inline-block;
+    width: 270px;
+    height: 450px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.title-name {
+    color: rgb(241, 74, 74);
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+}
+.price-info{
+    padding: 5px;
+    color: rgb(239, 241, 74);
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+}
+.total{
+    margin-right: 5px;
+}
+
+.btn-primary {
+
+    padding: 5px;
+}

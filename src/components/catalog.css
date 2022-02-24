@@ -1,0 +1,23 @@
+.catalog {
+    background-image:url("https://previews.123rf.com/images/rastudio/rastudio1504/rastudio150400853/38901775-dart-board-on-fire-and-water-with-lightening-around-on-abstract-polygonal-background-horizontal-layo.jpg");
+    background-size: cover;
+    opacity: 0.8;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: rgb(89, 252, 111);
+}
+
+h5 {
+    color: rgb(175, 50, 175);
+    text-shadow: 1px 1px solid;
+}
+
+.catalog img {
+    width: 200px;
+    height: 200px;
+}
